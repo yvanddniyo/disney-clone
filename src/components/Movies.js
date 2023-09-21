@@ -18,6 +18,18 @@ function Movies() {
        <Wrap>
         <img src='https://tv-fanatic-res.cloudinary.com/iu/s--yRirZ84b--/t_teaser_wide/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1633213085/phone-scam-the-simpsons.jpg' alt='disney-image' />
        </Wrap>
+       <Wrap>
+        <img src='https://tv-fanatic-res.cloudinary.com/iu/s--yRirZ84b--/t_teaser_wide/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1633213085/phone-scam-the-simpsons.jpg' alt='disney-image' />
+       </Wrap>
+       <Wrap>
+        <img src='https://tv-fanatic-res.cloudinary.com/iu/s--yRirZ84b--/t_teaser_wide/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1633213085/phone-scam-the-simpsons.jpg' alt='disney-image' />
+       </Wrap>
+       <Wrap>
+        <img src='https://tv-fanatic-res.cloudinary.com/iu/s--yRirZ84b--/t_teaser_wide/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1633213085/phone-scam-the-simpsons.jpg' alt='disney-image' />
+       </Wrap>
+       <Wrap>
+        <img src='https://tv-fanatic-res.cloudinary.com/iu/s--yRirZ84b--/t_teaser_wide/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1633213085/phone-scam-the-simpsons.jpg' alt='disney-image' />
+       </Wrap>
      </Content>
     </Container>
   )

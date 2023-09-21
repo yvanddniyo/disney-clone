@@ -111,7 +111,7 @@ align-items: center;
 justify-content: center;
 border-radius: 50%;
 border: 2px solid white;
-background-color: rgba(0, 0, 0, 0.6);
+background-color: rgba(0, 0, 0, 1);
 cursor: pointer;
 
 span{
@@ -130,6 +130,7 @@ min-heigth: 20px;
 
 const Description = styled.div`
  line-height: 1.4;
+ max-width: 50vw;
  font-size: 18px;
  margin-top: 16px;
  color: rgb(249, 249, 249);
